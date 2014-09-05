@@ -1,0 +1,11 @@
+p.bullet {
+	font-size: 64px;
+	padding-left: 64px;
+	padding-bottom: 24px;
+	text-indent: -71px
+}
+
+.slide section.gray {
+	background-color: #d3d7cf;
+}
+

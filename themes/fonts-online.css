@@ -1,0 +1,64 @@
+/* PTSans */
+@font-face {
+	font-family:'PT Sans';
+	src:local('PT Sans'), local('PTSansRegular'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.woff) format('woff'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.ttf) format('truetype'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.svg#PTSans-Regular) format('svg');
+	}
+@font-face {
+	font-weight:bold;
+	font-family:'PT Sans';
+	src:local('PT Sans Bold'), local('PTSansBold'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Bold.woff) format('woff'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Bold.ttf) format('truetype'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Bold.svg#PTSans-Bold) format('svg');
+	}
+@font-face {
+	font-style:italic;
+	font-family:'PT Sans';
+	src:local('PT Sans Italic'), local('PTSansItalic'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Italic.woff) format('woff'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Italic.ttf) format('truetype'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Italic.svg#PTSans-Italic) format('svg');
+	}
+@font-face {
+	font-style:italic;
+	font-weight:bold;
+	font-family:'PT Sans';
+	src:local('PT Sans Bold Italic'), local('PTSansBoldItalic'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Bold.Italic.woff) format('woff'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Bold.Italic.ttf) format('truetype'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Bold.Italic.svg#PTSans-BoldItalic) format('svg');
+	}
+@font-face {
+	font-family:'PT Sans Narrow';
+	src:local('PT Sans Narrow'), local('PTSansNarrow'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Narrow.woff) format('woff'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Narrow.ttf) format('truetype'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Narrow.svg#PTSans-Narrow) format('svg');
+	}
+@font-face {
+	font-family:'PT Sans Narrow';
+	font-weight:bold;
+	src:local('PT Sans Narrow Bold'), local('PTSansNarrowBold'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Narrow.Bold.woff) format('woff'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Narrow.Bold.ttf) format('truetype'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTSans.Narrow.Bold.svg#PTSans-NarrowBold) format('svg');
+	}
+
+/* PT Mono */
+@font-face {
+	font-family:'PT Mono';
+	src:local('PT Mono'), local('PTMonoRegular'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTMono.woff) format('woff'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTMono.ttf) format('truetype'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/PTMono.svg#PTMono) format('svg');
+	}
+
+/* Linker */
+@font-face {
+	font-family:'Target Blank';
+	src:url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/TargetBlank.otf) format('opentype'),
+		url(http://research.operationaldynamics.com/~andrew/talks/fonts/fonts/TargetBlank.svg#TargetBlank) format('svg');
+	}

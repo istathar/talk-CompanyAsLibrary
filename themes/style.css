@@ -1,0 +1,12 @@
+/*
+ * Example presentation theme
+ *
+ * Copyright © 2013-     Operational Dynamics Consulting, Pty Ltd
+ *
+ * There's no particular reason to break this up into pieces, but 
+ * I wanted to make it clear that you can have an in-house theme
+ * as well as presentation-specific styles.
+ */
+
+@import url(anchor.css);
+@import url(local.css);
