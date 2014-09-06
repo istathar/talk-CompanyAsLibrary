@@ -1,5 +1,6 @@
 slides/Intro.html
 slides/MetricsTelemetry1.html
 slides/MetricsTelemetry2.html
+slides/Vaultaire.html
 slides/ServerAsFunction.html
 slides/Close.html
