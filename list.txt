@@ -3,5 +3,17 @@ slides/MetricsTelemetry1.html
 slides/MetricsTelemetry2.html
 slides/Vaultaire.html
 slides/Original1.html
+slides/Rewrite1.html
+slides/Rewrite2.html
+slides/Rewrite3.html
+slides/Rewrite4.html
+slides/Rewrite5.html
+slides/VersionTwo1.html
+slides/VersionTwo2.html
 slides/ServerAsFunction.html
+slides/Libraries1.html
+slides/Libraries2.html
+slides/VersionTwo2Again.html
+slides/VersionThree.html
+slides/Thanks.html
 slides/Close.html
